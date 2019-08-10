@@ -2,7 +2,7 @@
 Statistics 141B Coursework
 
 ### Brief
-Accessing USDA Food Compisition Databases' web API and using fresh.csv for exploratory data analysis. 
+Accessing USDA Food Composition Databases' web API and using fresh.csv for exploratory data analysis. 
 
 ### Files
 + fresh.csv: Data
